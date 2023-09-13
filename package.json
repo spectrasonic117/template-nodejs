@@ -1,14 +1,16 @@
 {
-  "name": "@fl0/template-nodejs",
-  "version": "1.0.0",
-  "description": "A simple Node.js Express app for getting started on FL0",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+	"name": "omnispectra",
+	"version": "1.14.1",
+	"description": "discord bot programado por Spectrasonic",
+	"main": "index.js",
+	"scripts": {
+		"start": "npm index.js"
+	},
+	"keywords": [],
+	"author": "Spectrasonic",
+	"license": "MIT",
+	"dependencies": {
+		"discord.js": "^12.5.3",
+		"dotenv": "^16.3.1"
+	}
 }
